@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  h1 {
+    margin-top: 50px;
+  }
+
+  .btn-container {
+    margin-top: 20px;
+  }
+
+  .result {
+    margin-top: 30px;
+    font-size: 24px;
+  }
+
+  .score {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+
+  .winner {
+    color: green;
+  }
+
+  .loser {
+    color: red;
+  }
+
+  .message {
+    margin-top: 20px;
+    font-size: 20px;
+  }
